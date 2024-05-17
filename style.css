@@ -12,10 +12,10 @@ body {
 
 :root {
   --accents: black;
-  --navbg: #15be7f;
+  --navbg: #FFFFFF;
   --textcolor: black;
   --outlines: black;
-  --hovers: #2db497;
+  --hovers: #E4E4E4;
 }
 
 html {
@@ -28,7 +28,7 @@ body {
 
 .bg {
   animation:slide 3s ease-in-out infinite alternate;
-  background-image: linear-gradient(-60deg, #6c3 50%, #09f 50%);
+  background-image: linear-gradient(-60deg, #E4E4E4 50%, #FFFFFF 50%);
   bottom:0;
   left:-50%;
   opacity:.5;
